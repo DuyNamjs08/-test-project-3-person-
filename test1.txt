@@ -1,2 +1,6 @@
+ HEAD
 gasgdjsadjgajdjadjj
 sua doi Lang 
+
+chào các bạn mình tên là duy nam 
+>>>>>>> 143ff8be7a8e3cc6079af8baa9b177db7116886e
